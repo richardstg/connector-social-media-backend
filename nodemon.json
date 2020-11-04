@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "richard",
+    "DB_PASSWORD": "richard_password",
+    "DB_NAME": "social_media",
+    "JWT_KEY": "dk46d_2ad34_sd34p_sd35ml"
+  }
+}
