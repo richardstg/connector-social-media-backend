@@ -2,7 +2,7 @@ const { validationResult } = require("express-validator");
 const mongoose = require("mongoose");
 
 const HttpError = require("../models/http-error");
-const GuestBookMessage = require("../models/GuestBookMessage");
+const GuestBookMessage = require("../models/guestBookMessage");
 const User = require("../models/user");
 
 /* Get all guest book messages for a specific user */
